@@ -1,0 +1,77 @@
+/* Extra Small - None - None */
+@media (min-width: 0px) {
+    h1 {
+        font-size: 10vw;
+    }
+    h5 {
+        font-size: 4vw;
+    }
+    a {
+        font-size: 8vw;
+    }
+    .eu {
+        margin-top: 5%;
+    }
+    .icones {
+        margin-top: 15%;
+    }
+    .onefloat {
+        margin-top: 5%;
+    }
+}
+
+/* Small - sm - 576px */
+@media (min-width: 576px) {
+    h1 {
+        font-size: 8vw;
+    }
+    h5 {
+        font-size: 3vw;
+    }
+    a {
+        font-size: 6vw;
+    }
+    .foto {
+        width: 75%;
+    }
+    .icones {
+        margin-top: 10%;
+    }
+    .onefloat {
+        margin-top: 2.5%;
+    }
+}
+
+/* Medium - md - 768px */
+@media (min-width: 768px) {
+    h1 {
+        font-size: 5vw;
+    }
+    h5 {
+        font-size: 2vw;
+    }
+    a {
+        font-size: 5vw;
+    }
+}
+
+/* Large - lg - 992px */
+@media (min-width: 992px) {
+    .foto {
+        width: 100%;
+    }
+    a {
+        font-size: 4vw;
+    }
+    .onefloat {
+        margin-top: 0%;
+    }
+}
+
+/* Extra Large - xl - 1200px */
+@media (min-width: 1200px) {
+}
+
+/* Extra Extra Large - xxl - 1400px */
+@media (min-width: 1400px) {
+}
