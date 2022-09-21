@@ -1,0 +1,28 @@
+body {
+    background-color: #282a36;
+}
+
+h1 {
+    color: #ff79c6;
+}
+
+h5 {
+    color: #f8f8f2;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bi {
+    color: #f8f8f2;
+    font-size: 3vw;
+}
+
+.link:hover {
+    color: #8be9fd;
+}
+
+.foto {
+    width: 20%;
+}
