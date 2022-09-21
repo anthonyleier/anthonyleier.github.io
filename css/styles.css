@@ -51,3 +51,8 @@ a {
 .foto {
     width: 20%;
 }
+
+.preview {
+    width: 400px;
+    height: 250px;
+}
