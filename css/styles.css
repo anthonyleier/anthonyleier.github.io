@@ -56,3 +56,8 @@ a {
     width: 400px;
     height: 250px;
 }
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
