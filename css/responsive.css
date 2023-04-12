@@ -16,4 +16,8 @@
         height: 125px;
         margin-bottom: 25px;
     }
+
+    .grid-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
